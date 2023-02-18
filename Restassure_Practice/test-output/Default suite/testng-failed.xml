@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Restassure_Practice.DataDrivenExample">
+      <class name="java_extra_concepts.JsonSchemaValidation">
         <methods>
-          <include name="test_delete" invocation-numbers="0 1"/>
+          <include name="SchemaValidations"/>
         </methods>
-      </class> <!-- com.Restassure_Practice.DataDrivenExample -->
+      </class> <!-- java_extra_concepts.JsonSchemaValidation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
